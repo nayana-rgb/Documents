@@ -1,0 +1,117 @@
+.macbook-pro-login-1-child {
+  position: absolute;
+  top: 22px;
+  left: 138px;
+  border-radius: 30px;
+  width: 352px;
+  height: 330px;
+  object-fit: cover;
+}
+.mail,
+.pass {
+  border: 3px solid var(--color-silver);
+  font-family: var(--font-montserrat);
+  font-size: var(--font-size-mini);
+  background-color: transparent;
+  position: absolute;
+  height: 6.1%;
+  width: 23.41%;
+  top: 50%;
+  right: 67.53%;
+  bottom: 43.9%;
+  left: 9.06%;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 20.950927734375px var(--padding-xl);
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.pass {
+  top: 59.47%;
+  bottom: 34.42%;
+  padding: 20.9508056640625px var(--padding-xl);
+}
+.image-1-icon,
+.img-1413-1 {
+  position: absolute;
+  top: 34px;
+  left: 556px;
+  width: 956px;
+  height: 956px;
+}
+.image-1-icon {
+  height: 948px;
+  object-fit: cover;
+}
+.welcome-back {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.welcome-back-we {
+  position: relative;
+  font-size: 14.33px;
+  font-weight: 500;
+  color: var(--color-teal);
+  text-align: left;
+  margin-top: -8px;
+}
+.title {
+  position: absolute;
+  top: 352px;
+  left: 154px;
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-teal);
+}
+.masuk1 {
+  position: absolute;
+  top: 32.69%;
+  left: 44.07%;
+  letter-spacing: -0.3px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-parent {
+  align-self: stretch;
+  position: relative;
+  height: 52px;
+}
+.macbook-pro-login-1-inner {
+  position: absolute;
+  top: 726px;
+  left: 136px;
+  width: 354px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-abel);
+}
+.macbook-pro-login-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 40.33px;
+  color: #2d306d;
+  font-family: var(--font-poppins);
+}

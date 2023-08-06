@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-product-sans: "Product Sans";
+  --font-abel: Abel;
+  --font-poppins: Poppins;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-steelblue: #3498db;
+  --color-teal: #186964;
+  --color-silver: #c0c0c0;
+
+  /* Paddings */
+  --padding-xl: 20px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+}
